@@ -1,4 +1,4 @@
-# [Paper Kit 2 PRO Angular - Premium Bootstrap 4 UI Kit](https://creativetimofficial.github.io/paper-kit-2-pro-angular/presentation) [![version][version-badge]][CHANGELOG]
+# [Paper Kit 2 PRO Angular - Premium Bootstrap 4 UI Kit](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/presentation?ref=pk-pro-angular-readme) [![version][version-badge]][CHANGELOG]
 
 ![Paper Kit 2 PRO Angular ](https://s3.amazonaws.com/creativetim_bucket/products/68/original/opt_pk2p_angular_thumbnail.jpg?1501180792)
 
@@ -6,7 +6,7 @@ Paper Kit 2 PRO Angular is a premium Bootstrap 4 UI Kit with a huge number of co
 
 The idea behind Paper Kit 2 PRO Angular is creating beautiful, playful design. We have created the UI Kit kit having pastel colors and paper in mind. It feels light, fresh and easy to go through. It looks great with illustrations and drawings, but also using images. It features beautiful typography, font icons and thoughtful layouts.
 
-Paper Kit 2 PRO Angular is the extended version of [Paper Kit 2 Angular](https://www.creative-tim.com/product/paper-kit-2-angular). Based on feedback from people that downloaded and used it, we have added needed components and we have created multiple examples pages. We are curious to see how you
+Paper Kit 2 PRO Angular is the extended version of [Paper Kit 2 Angular](https://www.creative-tim.com/product/paper-kit-2-angular?ref=pk-pro-angular-readme). Based on feedback from people that downloaded and used it, we have added needed components and we have created multiple examples pages. We are curious to see how you
 want to use it and also improve it, so let us know any feedback you have.
 
 
@@ -19,28 +19,28 @@ Paper Kit PRO Angular is built on top of Bootstrap 4, so it fully supports it. M
 Paper Kit 2 PRO Angular contains a lot of pages already designed and implemented. The pages are created for basic flows like registering, building a profile, adding and searching for products. Either you are building a blog or an e-commerce, the examples can help you jump start it. Here is the list with the pages available. We are also working on more example pages, that you will be able to access no matter the version you download.
 
 
-- [About Us](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/aboutus)
-- [Add Product](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/addproduct)
-- [Blog Post](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/blogpost)
-- [Blog Posts](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/blogposts)
-- [Contact US](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/contactus)
-- [Discover](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/discover)
-- [Ecommerce](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/ecommerce)
-- [Landing Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/landing)
-- [Login Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/login)
-- [Profile Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/profile)
-- [Register Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/register)
-- [Search](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/search)
-- [Settings](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/settings)
-- [Error Page - 404](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/page404)
-- [Error Page - 422](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/page422)
-- [Error Page - 500](https://creativetimofficial.github.io/paper-kit-2-pro-angular/examples/page500)
+- [About Us](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/aboutus?ref=pk-pro-angular-readme)
+- [Add Product](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/addproduct?ref=pk-pro-angular-readme)
+- [Blog Post](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/blogpost?ref=pk-pro-angular-readme)
+- [Blog Posts](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/blogposts?ref=pk-pro-angular-readme)
+- [Contact US](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/contactus?ref=pk-pro-angular-readme)
+- [Discover](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/discover?ref=pk-pro-angular-readme)
+- [Ecommerce](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/ecommerce?ref=pk-pro-angular-readme)
+- [Landing Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/landing?ref=pk-pro-angular-readme)
+- [Login Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/login?ref=pk-pro-angular-readme)
+- [Profile Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/profile?ref=pk-pro-angular-readme)
+- [Register Page](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/register?ref=pk-pro-angular-readme)
+- [Search](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/search?ref=pk-pro-angular-readme)
+- [Settings](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/settings?ref=pk-pro-angular-readme)
+- [Error Page - 404](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/page404?ref=pk-pro-angular-readme)
+- [Error Page - 422](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/page422?ref=pk-pro-angular-readme)
+- [Error Page - 500](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/examples/page500?ref=pk-pro-angular-readme)
 
 **Tutorial & Components**
 
 Once you download the archive, you will be able find a tutorial page inside it explaining how to start using it. We have also created a page describing every component that you can find it inside the kit, how to use it along with a fully coded examples.
 
-You can also check the [documentation online](https://creativetimofficial.github.io/paper-kit-2-pro-angular/documentation/tutorial).
+You can also check the [documentation online](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/documentation/tutorial?ref=pk-pro-angular-readme).
 
 ## Terminal Commands
 
@@ -72,32 +72,34 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-kit-2-pro)
-[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-kit-2-pro-angular)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/html.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-kit-2-pro?ref=pk-pro-angular-readme)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/angular.png" width="60" height="60" />](https://www.creative-tim.com/product/paper-kit-2-pro-angular?ref=pk-pro-angular-readme)
+[<img src="https://s3.amazonaws.com/creativetim_bucket/github/react.svg" width="60" height="60" />](https://www.creative-tim.com/product/paper-kit-pro-react?ref=pk-pro-angular-readme)
 
 
-| HTML | Angular |
-| ---  | --- |
-| [![Paper Kit 2 Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/60/opt_pk2p_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-pro) | [![Paper Kit 2 Pro Angular](http://s3.amazonaws.com/creativetim_bucket/products/68/original/opt_pk2p_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-pro-angular)
+
+| HTML | Angular | React |
+| ---  | --- | --- |
+| [![Paper Kit 2 Pro HTML](https://s3.amazonaws.com/creativetim_bucket/products/60/opt_pk2p_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-pro?ref=pk-pro-angular-readme) | [![Paper Kit 2 Pro Angular](http://s3.amazonaws.com/creativetim_bucket/products/68/original/opt_pk2p_angular_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-2-pro-angular?ref=pk-pro-angular-readme) | [![Paper Kit 2 Pro React](http://s3.amazonaws.com/creativetim_bucket/products/168/original/opt_pkp_react_thumbnail.jpg)](https://www.creative-tim.com/product/paper-kit-pro-react?ref=pk-pro-angular-readme)
 
 ## Demo
 
-- [Start page](https://demos.creative-tim.com/paper-kit-2-pro-angular/documentation/tutorial)
-- [Components page](https://demos.creative-tim.com/paper-kit-2-pro-angular/components)
-- [Sections page ](https://demos.creative-tim.com/paper-kit-2-pro-angular/sections#headers)
+- [Start page](https://demos.creative-tim.com/paper-kit-2-pro-angular/#/documentation/tutorial?ref=pk-pro-angular-readme)
+- [Components page](https://demos.creative-tim.com/paper-kit-2-pro-angular/#/components?ref=pk-pro-angular-readme)
+- [Sections page ](https://demos.creative-tim.com/paper-kit-2-pro-angular/#/sections#headers?ref=pk-pro-angular-readme)
 
-[View More](https://demos.creative-tim.com/paper-kit-2-pro-angular/presentation).
+[View More](https://demos.creative-tim.com/paper-kit-2-pro-angular/#/presentation?ref=pk-pro-angular-readme).
 
 
 ## Quick start
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/paper-kit-2-pro-angular)
+- Buy from [Creative Tim](https://www.creative-tim.com/product/paper-kit-2-pro-angular?ref=pk-pro-angular-readme)
 
 
 ## Documentation
-The documentation for the Paper Kit 2 Pro Angular is hosted at our [website](https://demos.creative-tim.com/paper-kit-2-pro-angular/documentation/tutorial).
+The documentation for the Paper Kit 2 Pro Angular is hosted at our [website](https://demos.creative-tim.com/paper-kit-2-pro-angula/#r/documentation/tutorial?ref=pk-pro-angular-readme).
 
 
 ## File Structure
@@ -110,8 +112,6 @@ paper-kit-2-pro-angular
 ├── README.md
 ├── angular.json
 ├── documentation
-│   ├── css
-│   ├── js
 │   └── tutorial-components.html
 ├── e2e
 ├── karma.conf.js
@@ -358,10 +358,10 @@ paper-kit-2-pro-angular
 │   │           └── navbar.component.ts
 │   ├── assets
 │   │   ├── css
+│   │   ├── demo
 │   │   ├── fonts
 │   │   ├── img
-│   │   ├── sass
-│   │   │   ├── demo.scss
+│   │   ├── scss
 │   │   │   ├── paper-kit
 │   │   │   └── paper-kit.scss
 │   │   └── video
@@ -387,11 +387,11 @@ At present, we officially aim to support the last two versions of the following 
 
 
 ## Resources
-- [Live Preview](https://demos.creative-tim.com/paper-kit-2-pro-angular/presentation)
-- Buy Page: https://www.creative-tim.com/product/paper-kit-2-pro-angular
-- Documentation is [here](https://demos.creative-tim.com/paper-kit-2-pro-angular/documentation/tutorial)
-- License Agreement: https://www.creative-tim.com/license
-- Support: https://www.creative-tim.com/contact-us
+- [Live Preview](https://demos.creative-tim.com/paper-kit-2-pro-angular/#/presentation?ref=pk-pro-angular-readme)
+- Buy Page: https://www.creative-tim.com/product/paper-kit-2-pro-angular?ref=pk-pro-angular-readme
+- Documentation is [here](https://demos.creative-tim.com/paper-kit-2-pro-angular/#/documentation/tutorial?ref=pk-pro-angular-readme)
+- License Agreement: https://www.creative-tim.com/license?ref=pk-pro-angular-readme
+- Support: https://www.creative-tim.com/contact-us?ref=pk-pro-angular-readme
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-paper-kit-2-pro-angular/issues)
 - Paper Kit 2 Angular - [demo](https://demos.creative-tim.com/paper-kit-2-angular/home?ref=github-pk2-pro-angular)
 
@@ -408,7 +408,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 ## Licensing
 
-- Copyright 2018 Creative Tim (https://www.creative-tim.com)
+- Copyright 2019 Creative Tim (https://www.creative-tim.com)
 - Creative Tim [license](https://www.creative-tim.com/license)
 
 ## Useful Links
@@ -434,4 +434,4 @@ Google+: <https://plus.google.com/+CreativetimPage>
 Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
-[version-badge]: https://img.shields.io/badge/version-1.2.0-blue.svg
+[version-badge]: https://img.shields.io/badge/version-1.3.0-blue.svg
