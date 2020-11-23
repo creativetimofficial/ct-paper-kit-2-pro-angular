@@ -1,3 +1,9 @@
+<a href="https://www.creative-tim.com/campaign?utm_medium=social&utm_source=github&utm_campaign=bf-readme-2020">
+<img border="0" alt="Creative Tim Black Friday Offer" src="https://s3.amazonaws.com/creativetim_bucket/tim_static_images/bf-github-banner.png" >
+</a>
+
+
+
 # [Paper Kit 2 PRO Angular - Premium Bootstrap 4 UI Kit](https://creativetimofficial.github.io/paper-kit-2-pro-angular/#/presentation?ref=pk-pro-angular-readme) [![version][version-badge]][CHANGELOG]
 
 ![Paper Kit 2 PRO Angular ](https://s3.amazonaws.com/creativetim_bucket/products/68/original/opt_pk2p_angular_thumbnail.jpg?1501180792)
