@@ -1,3 +1,9 @@
+## [1.6.0] - 2022-04-13
+### Updates
+- update to Angular 13
+- update all dependencies to match Angular 13 version
+- css issue fixed in multiple component i.e tab, carousel, accordion, alert, pagination
+
 ## [1.5.0] - 2020-12-15
 ### Updates
 - update to Angular 11
